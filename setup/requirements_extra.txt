@@ -1,0 +1,2 @@
+/srv/http/clv_common_py/dist/clv_common_py-0.0.9-py3-none-any.whl
+git+https://github.com/ixicale/ideal-waffle@master
